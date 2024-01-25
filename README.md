@@ -1,4 +1,4 @@
-# honey-gallery-product
+# Honey-gallery-product
 
 # Tunisian Honey Shop
 
